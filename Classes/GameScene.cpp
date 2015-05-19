@@ -9,7 +9,7 @@
 //#include "ui/CocosGUI.h"
 #include "SimpleAudioEngine.h"
 #include "GameScene.h"
-#include "GADBannerView.h"
+//#include "GADBannerView.h"
 
 USING_NS_CC;
 
@@ -21,7 +21,7 @@ auto gapX = 0.0;
 auto gapY = 0.0;
 auto maxNumColumns = 4;
 auto maxNumRows = 5;
-auto bannerView;
+//auto bannerView;
 
 //ID del bloque de anuncios: ca-app-pub-5767684210972160/5150935139
 Scene* GameScene::createScene()
